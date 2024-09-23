@@ -1,5 +1,3 @@
-module github.com/ssssunat/websocket-chat
+module github.com/ssssunat/chat
 
-go 1.19
-
-require github.com/gorilla/websocket v1.5.3 // indirect
+go 1.22.5
